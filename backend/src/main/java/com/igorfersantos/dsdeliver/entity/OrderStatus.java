@@ -1,4 +1,4 @@
-package com.igorfersantos.dsdeliver.Entity;
+package com.igorfersantos.dsdeliver.entity;
 
 public enum OrderStatus {
     PENDING, DELIVERED;

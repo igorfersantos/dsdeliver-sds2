@@ -1,4 +1,4 @@
-package com.igorfersantos.dsdeliver.Entity;
+package com.igorfersantos.dsdeliver.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
