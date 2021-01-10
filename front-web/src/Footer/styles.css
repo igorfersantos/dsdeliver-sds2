@@ -1,12 +1,12 @@
 .main-footer {
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: var(--dark-color);
+    background-color: var(--footer-background);
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     text-align: center;
-    color: #FFF;
+    color: #000000;
 }
 
 .footer-icons {
