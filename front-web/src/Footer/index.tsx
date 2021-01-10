@@ -12,12 +12,12 @@ function Footer() {
               <a href="https://github.com/igorfersantos/dsdeliver-sds2" target="_new">
                 <Github />
               </a>
-              
+
               <a href="https://www.linkedin.com/in/igorferlimeira/" target="_new">
                 <Linkedin />
               </a>
 
-              <a href="https://discordapp.com/users/223129905309810688" target="_new">
+              <a href="https://discord.gg/GsuT5C2cJ9" target="_new">
                 <Discord />
               </a>
             </div>
